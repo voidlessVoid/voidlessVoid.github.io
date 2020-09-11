@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <body>
 <h1>Hello World, is there actually a world out there?</h1>
